@@ -18,9 +18,12 @@ class Header extends Component {
           <div className="">
             <nav className="dt w-100 mw8 center">
               <div className="dtc w2 v-mid">
+                <p className="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph1">dev</p>
+              </div>
+              <div className="dtc w2 v-mid">
                 <a href="/" className="dib w2 h2 pa1 grow-large">
                   <img src={logo} alt="ristolina logo"></img>
-                </a>
+                  </a>
               </div>
               <div className="dtc v-mid tr pr1">
                 <AnchorLink href="#experience" className="f6 fw4 hover-white no-underline white-70 dn dib-ns pv2 ph1">/ experience /</AnchorLink>
