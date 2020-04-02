@@ -1,30 +1,30 @@
 {
   "files": {
-    "main.css": "/dev.ristolina.com/static/css/main.7ec9a349.chunk.css",
-    "main.js": "/dev.ristolina.com/static/js/main.a3624213.chunk.js",
-    "main.js.map": "/dev.ristolina.com/static/js/main.a3624213.chunk.js.map",
-    "runtime-main.js": "/dev.ristolina.com/static/js/runtime-main.d02c15fd.js",
-    "runtime-main.js.map": "/dev.ristolina.com/static/js/runtime-main.d02c15fd.js.map",
-    "static/css/2.221380cf.chunk.css": "/dev.ristolina.com/static/css/2.221380cf.chunk.css",
-    "static/js/2.41075e6d.chunk.js": "/dev.ristolina.com/static/js/2.41075e6d.chunk.js",
-    "static/js/2.41075e6d.chunk.js.map": "/dev.ristolina.com/static/js/2.41075e6d.chunk.js.map",
-    "index.html": "/dev.ristolina.com/index.html",
-    "precache-manifest.9358d6af05be38d089266bcc03e7c467.js": "/dev.ristolina.com/precache-manifest.9358d6af05be38d089266bcc03e7c467.js",
-    "service-worker.js": "/dev.ristolina.com/service-worker.js",
-    "static/css/2.221380cf.chunk.css.map": "/dev.ristolina.com/static/css/2.221380cf.chunk.css.map",
-    "static/css/main.7ec9a349.chunk.css.map": "/dev.ristolina.com/static/css/main.7ec9a349.chunk.css.map",
-    "static/js/2.41075e6d.chunk.js.LICENSE.txt": "/dev.ristolina.com/static/js/2.41075e6d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/dev.ristolina.com/static/media/background.42fd2d74.jpg",
-    "static/media/brackets.svg": "/dev.ristolina.com/static/media/brackets.8c7c6f3d.svg",
-    "static/media/code.svg": "/dev.ristolina.com/static/media/code.5291b74f.svg",
-    "static/media/ristolina-logo_mono-light.svg": "/dev.ristolina.com/static/media/ristolina-logo_mono-light.4de2eb4d.svg",
-    "static/media/terminal.svg": "/dev.ristolina.com/static/media/terminal.8baa2610.svg"
+    "main.css": "/static/css/main.591ea371.chunk.css",
+    "main.js": "/static/js/main.9f18839b.chunk.js",
+    "main.js.map": "/static/js/main.9f18839b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.12405a03.js",
+    "runtime-main.js.map": "/static/js/runtime-main.12405a03.js.map",
+    "static/css/2.221380cf.chunk.css": "/static/css/2.221380cf.chunk.css",
+    "static/js/2.41075e6d.chunk.js": "/static/js/2.41075e6d.chunk.js",
+    "static/js/2.41075e6d.chunk.js.map": "/static/js/2.41075e6d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2b8d77cae51fb0a753eba9e4c6d7e433.js": "/precache-manifest.2b8d77cae51fb0a753eba9e4c6d7e433.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.221380cf.chunk.css.map": "/static/css/2.221380cf.chunk.css.map",
+    "static/css/main.591ea371.chunk.css.map": "/static/css/main.591ea371.chunk.css.map",
+    "static/js/2.41075e6d.chunk.js.LICENSE.txt": "/static/js/2.41075e6d.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/static/media/background.42fd2d74.jpg",
+    "static/media/brackets.svg": "/static/media/brackets.8c7c6f3d.svg",
+    "static/media/code.svg": "/static/media/code.5291b74f.svg",
+    "static/media/ristolina-logo_mono-light.svg": "/static/media/ristolina-logo_mono-light.4de2eb4d.svg",
+    "static/media/terminal.svg": "/static/media/terminal.8baa2610.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.d02c15fd.js",
+    "static/js/runtime-main.12405a03.js",
     "static/css/2.221380cf.chunk.css",
     "static/js/2.41075e6d.chunk.js",
-    "static/css/main.7ec9a349.chunk.css",
-    "static/js/main.a3624213.chunk.js"
+    "static/css/main.591ea371.chunk.css",
+    "static/js/main.9f18839b.chunk.js"
   ]
 }
