@@ -1,30 +1,33 @@
 {
   "files": {
-    "main.css": "/static/css/main.591ea371.chunk.css",
-    "main.js": "/static/js/main.58f97f6b.chunk.js",
-    "main.js.map": "/static/js/main.58f97f6b.chunk.js.map",
+    "main.css": "/static/css/main.a2d11fea.chunk.css",
+    "main.js": "/static/js/main.b3523242.chunk.js",
+    "main.js.map": "/static/js/main.b3523242.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.12405a03.js",
     "runtime-main.js.map": "/static/js/runtime-main.12405a03.js.map",
-    "static/css/2.221380cf.chunk.css": "/static/css/2.221380cf.chunk.css",
-    "static/js/2.41075e6d.chunk.js": "/static/js/2.41075e6d.chunk.js",
-    "static/js/2.41075e6d.chunk.js.map": "/static/js/2.41075e6d.chunk.js.map",
+    "static/css/2.2c2acde2.chunk.css": "/static/css/2.2c2acde2.chunk.css",
+    "static/js/2.c71f018b.chunk.js": "/static/js/2.c71f018b.chunk.js",
+    "static/js/2.c71f018b.chunk.js.map": "/static/js/2.c71f018b.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.85ea96f06eae8f05a975e846cfe27e16.js": "/precache-manifest.85ea96f06eae8f05a975e846cfe27e16.js",
+    "precache-manifest.b829dca4818565c86946dfce0a6fb2a2.js": "/precache-manifest.b829dca4818565c86946dfce0a6fb2a2.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.221380cf.chunk.css.map": "/static/css/2.221380cf.chunk.css.map",
-    "static/css/main.591ea371.chunk.css.map": "/static/css/main.591ea371.chunk.css.map",
-    "static/js/2.41075e6d.chunk.js.LICENSE.txt": "/static/js/2.41075e6d.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/background.42fd2d74.jpg",
-    "static/media/brackets.svg": "/static/media/brackets.8c7c6f3d.svg",
-    "static/media/code.svg": "/static/media/code.5291b74f.svg",
-    "static/media/ristolina-logo_mono-light.svg": "/static/media/ristolina-logo_mono-light.4de2eb4d.svg",
-    "static/media/terminal.svg": "/static/media/terminal.8baa2610.svg"
+    "static/css/2.2c2acde2.chunk.css.map": "/static/css/2.2c2acde2.chunk.css.map",
+    "static/css/main.a2d11fea.chunk.css.map": "/static/css/main.a2d11fea.chunk.css.map",
+    "static/js/2.c71f018b.chunk.js.LICENSE.txt": "/static/js/2.c71f018b.chunk.js.LICENSE.txt",
+    "static/media/DebugPos.png": "/static/media/DebugPos.f7ede42f.png",
+    "static/media/Ristolina_developer.png": "/static/media/Ristolina_developer.bcb0162e.png",
+    "static/media/brackets.svg": "/static/media/brackets.c62a77ab.svg",
+    "static/media/code.svg": "/static/media/code.1ad74e6e.svg",
+    "static/media/dev.ristolina.com.png": "/static/media/dev.ristolina.com.2bd709f6.png",
+    "static/media/facerec.png": "/static/media/facerec.d40d2416.png",
+    "static/media/kostspec.se.png": "/static/media/kostspec.se.84046c68.png",
+    "static/media/terminal.svg": "/static/media/terminal.c129293c.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.12405a03.js",
-    "static/css/2.221380cf.chunk.css",
-    "static/js/2.41075e6d.chunk.js",
-    "static/css/main.591ea371.chunk.css",
-    "static/js/main.58f97f6b.chunk.js"
+    "static/css/2.2c2acde2.chunk.css",
+    "static/js/2.c71f018b.chunk.js",
+    "static/css/main.a2d11fea.chunk.css",
+    "static/js/main.b3523242.chunk.js"
   ]
 }
