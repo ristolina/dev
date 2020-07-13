@@ -14,46 +14,42 @@ const Portfolio = () => {
           <hr class="mw3 bb b--white-80 mb4" />
         </section>
       </div>
-      <div className="w-20-ns w-third-m">
-        <article className="center">
-          <div className="tc">
-            <h1 className="f3 mb2 moon-gray">template title</h1>
-            <h2 className="f5 fw4 light-gray mt0">template project</h2>
+      <section className="cf w-100 pa2-ns">
+        <article className="fl w-100 w-50-m  w-25-ns pa2-ns">
+          <div className="aspect-ratio aspect-ratio--1x1">
+            <img style={{backgroundImage: `url(${require('./media/dev.ristolina.com.png')})`}} className="db bg-center cover aspect-ratio--object"></img>
           </div>
+          <a href="https://ristolina.com" target="_blank" className="ph2 ph0-ns pb3 link db">
+            <h3 className="f5 f4-ns mb0 moon-gray">Ristolina.com</h3>
+            <h3 className="f6 f5 fw4 mt2 gray">My own site, built from scratch with ReactJS.</h3>
+          </a>
         </article>
-      </div>
-      <div className="w-20-ns w-third-m">
-        <article className="center">
-          <div className="tc">
-            <h1 className="f3 mb2 moon-gray">template title</h1>
-            <h2 className="f5 fw4 light-gray mt0">template project</h2>
+        <article className="fl w-100 w-50-m  w-25-ns pa2-ns">
+          <div className="aspect-ratio aspect-ratio--1x1">
+            <img style={{backgroundImage: `url(${require('./media/DebugPos.png')})`}} className="db bg-center cover aspect-ratio--object"></img>
           </div>
+            <h3 className="f5 f4-ns mb0 moon-gray">DebugPOS</h3>
+            <h3 className="f6 f5 fw4 mt2 gray">Debug application for troubleshooting Bambora Payment Terminals.</h3>
         </article>
-      </div>
-      <div className="w-20-ns w-third-m">
-        <article className="center">
-          <div className="tc">
-            <h1 className="f3 mb2 moon-gray">template title</h1>
-            <h2 className="f5 fw4 light-gray mt0">template project</h2>
+        <article className="fl w-100 w-50-m  w-25-ns pa2-ns">
+          <div className="aspect-ratio aspect-ratio--1x1">
+            <img style={{backgroundImage: `url(${require('./media/kostspec.se.png')})`}} className="db bg-center cover aspect-ratio--object"></img>
           </div>
+          <a href="https://www.kostspec.se" target="_blank" className="ph2 ph0-ns pb3 link db">
+            <h3 className="f5 f4-ns mb0 moon-gray">Kostspec.se</h3>
+            <h3 className="f6 f5 fw4 mt2 gray">Wordpress site for 3rd party.</h3>
+          </a>
         </article>
-      </div>
-      <div className="w-20-ns w-third-m">
-        <article className="center">
-          <div className="tc">
-            <h1 className="f3 mb2 moon-gray">template title</h1>
-            <h2 className="f5 fw4 light-gray mt0">template project</h2>
+        <article className="fl w-100 w-50-m  w-25-ns pa2-ns">
+          <div className="aspect-ratio aspect-ratio--1x1">
+            <img style={{backgroundImage: `url(${require('./media/facerec.png')})`}} className="db bg-center cover aspect-ratio--object"></img>
           </div>
+          <a href="https://ristolina-fcerec.herokuapp.com/" target="_blank" className="ph2 ph0-ns pb3 link db">
+            <h3 className="f5 f4-ns mb0 moon-gray">Face Recognition</h3>
+            <h3 className="f6 f5 fw4 mt2 gray">Facial recognition through API.</h3>
+          </a>
         </article>
-      </div>
-      <div className="w-20-ns w-third-m">
-        <article className="center">
-          <div className="tc">
-            <h1 className="f3 mb2 moon-gray">template title</h1>
-            <h2 className="f5 fw4 light-gray mt0">template project</h2>
-          </div>
-        </article>
-      </div>
+    </section>
     </div>
 
   )
